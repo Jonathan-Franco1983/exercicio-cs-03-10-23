@@ -1,0 +1,14 @@
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\bin\Debug\net6.0\projetoObj.exe
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\bin\Debug\net6.0\projetoObj.deps.json
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\bin\Debug\net6.0\projetoObj.runtimeconfig.json
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\bin\Debug\net6.0\projetoObj.dll
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\bin\Debug\net6.0\projetoObj.pdb
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\projetoObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\projetoObj.AssemblyInfoInputs.cache
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\projetoObj.AssemblyInfo.cs
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\projetoObj.csproj.CoreCompileInputs.cache
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\projetoObj.dll
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\refint\projetoObj.dll
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\projetoObj.pdb
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\projetoObj.genruntimeconfig.cache
+C:\Users\51128962023.1\source\repos\projetoObj\projetoObj\obj\Debug\net6.0\ref\projetoObj.dll
